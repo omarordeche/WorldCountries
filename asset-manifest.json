@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WorldCountries/static/css/main.006ff378.css",
+    "main.js": "/WorldCountries/static/js/main.4a9fc87c.js",
+    "static/media/main.jpg": "/WorldCountries/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/WorldCountries/static/media/JosefinSans-Medium.fac241207ab1bd3426e6.ttf",
+    "index.html": "/WorldCountries/index.html",
+    "main.006ff378.css.map": "/WorldCountries/static/css/main.006ff378.css.map",
+    "main.4a9fc87c.js.map": "/WorldCountries/static/js/main.4a9fc87c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006ff378.css",
+    "static/js/main.4a9fc87c.js"
+  ]
+}
