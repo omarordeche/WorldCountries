@@ -8,11 +8,11 @@ const App = () => {
    <>
    <BrowserRouter>
    <Routes>
-    <Route path="WorldCountries/" element={<Home />} />
-    <Route path='WorldCountries/about' element={<About />} />
+    <Route path="/WorldCountries/" element={<Home />} />
+    <Route path='/WorldCountries/about' element={<About />} />
     {/* <Route path="*" element={<NotFound />} />  */}
      {/* ou bien utiliser cette route pour dire que cette page n'éxiste pas  */}
-    <Route path='*' element={<Home />} />
+    <Route path='/WorldCountries/*' element={<Home />} />
        
    </Routes>
    </BrowserRouter>
